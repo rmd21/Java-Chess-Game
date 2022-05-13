@@ -1,6 +1,5 @@
-This is the base repository to start with the coursework. Please notice that:
+# CHESS
+<hr>
+Personally one of my favourite games and something I love to play during my me time since childhood. Hopefully you all are familiar with chess and how it works but just incase please do read the <a href= "https://www.chess.com/learn-how-to-play-chess">rules</a> if required. <br>
+It is a basic terminal implementation of the game following all the chess rules
 
-- The instructions and manual can be found in [Blackboard under Assessment](https://online.manchester.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_12837701_1&course_id=_67979_1).
-- The submission deadline is on March 11 at 6PM (Friday of week 5).
-- This is formative assessment so it's not going to be marked.
-- Use the [coursework forum to ask any question](https://online.manchester.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_67979_1&nav=discussion_board&conf_id=_396488_1&forum_id=_564463_1). Make sure you have carefully read the manual before that.
